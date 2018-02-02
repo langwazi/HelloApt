@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloApt.iml" filepath="$PROJECT_DIR$/HelloApt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-annotations/hello-annotations.iml" filepath="$PROJECT_DIR$/hello-annotations/hello-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-compiler/hello-compiler.iml" filepath="$PROJECT_DIR$/hello-compiler/hello-compiler.iml" />
+    </modules>
+  </component>
+</project>
